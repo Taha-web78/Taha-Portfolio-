@@ -730,7 +730,8 @@ html {
     margin: 0 auto;
   }
   .home-img img {
-    width: 56vw;
+    width: 300px;
+    height: 300px;
   }
   .services h2 {
     margin-bottom: 3rem;
